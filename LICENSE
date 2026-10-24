@@ -1,0 +1,51 @@
+gggg-unit Attribution License 1.0
+SPDX-License-Identifier: LicenseRef-GGGG-Unit-Attribution-1.0
+
+Copyright (c) 2026 gggg-unit
+Source: https://github.com/gggg-unit/modern-warfare-4-turkce-yama
+
+1. Scope
+This license applies only to the installer, packaging tools, documentation,
+and original contributions for which gggg-unit owns the relevant rights
+(the "Covered Work"). Third-party software, translations, fonts, game assets,
+and pre-existing portions of modified binaries are excluded. No ownership of
+those materials is claimed and no rights to them are granted by this license.
+
+2. Permission
+Permission is granted, free of charge, to use, copy, study, modify, merge,
+publish, distribute, sublicense, and sell copies of the Covered Work,
+including modified versions, subject to all of the conditions below.
+
+3. Required attribution
+Every redistribution of the Covered Work or a substantial portion of it,
+in source or binary form and whether modified or unmodified, must:
+(a) retain the copyright notice, this license, and the source URL above;
+(b) identify "gggg-unit" as the source author of the Covered Work in the
+    distributed README, credits, or other accompanying documentation;
+(c) include an accessible link to the source repository wherever the
+    redistribution is described on a project or download page; and
+(d) clearly describe substantive modifications and identify their authors,
+    without implying that modified versions are endorsed by gggg-unit.
+A suitable attribution is:
+"Based on the installer and original modifications by gggg-unit:
+https://github.com/gggg-unit/modern-warfare-4-turkce-yama"
+
+4. Third-party rights and trademarks
+This license does not replace third-party licenses or grant trademark rights.
+Existing third-party notices and license obligations must be preserved.
+The name gggg-unit may be used to provide the required attribution, but not
+to suggest endorsement without separate permission.
+
+5. Disclaimer
+THE COVERED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NON INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, THE COPYRIGHT HOLDER AND CONTRIBUTORS ARE NOT LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY ARISING FROM THE COVERED WORK OR ITS USE.
+
+Turkce ozet (English terms above control):
+Bu lisans yalnizca gggg-unit'e ait ozgun katkilari kapsar. Kullanabilir,
+degistirebilir ve paylasabilirsiniz. gggg-unit adini, kaynak depo baglantisini
+ve lisansi korumali; degisiklikleri ve yazarlarini belirtmelisiniz. Ucuncu
+taraf eserleri bu lisansla yeniden lisanslanmaz. Eser garanti verilmeden sunulur.
+
